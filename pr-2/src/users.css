@@ -1,0 +1,29 @@
+body {
+    background-color: #e3eaa7;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table{
+    border-spacing: 5px;
+}
+
+thead {
+    background-color: #ada397;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+tbody {
+    background-color: #d6cbd3;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th,
+td {
+    padding: 15px;
+}
